@@ -7,14 +7,12 @@ title:: "C language"
 
 **변수 출력**
 
-~~~c
 #include <stdio.h>
-
 int main()
-{ 
+{
 char 학점; 
-printf("grade : "); 
-scanf("%c", &학점); 
+printf("grade : ");
+scanf("%c", &학점);
 printf("학점 = %c\n", 학점); 
 return 0; 
 }
