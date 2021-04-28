@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "신태웅"
-  avatar           : # path of avatar image, e.g. "/assets/images/코로나 바이러스.png"
+  avatar           : "/assets/images/코로나 바이러스.png"
   bio              : "행복하게 살고 싶은 사람"
   location         : "대한민국, 서울"
   email            : "taewoong.sin@gmail.com"
